@@ -81,10 +81,9 @@ When adding new features:
 3. Add audio to `Sounds/` folder
 4. Add sprites to `Sprites/` folder
 
-## License
-
-[Add license information here]
 
 ## Contact
 
-[Add contact information here]
+Vince Neil T. Madeja | 09922079904
+Brenan Collado
+Ron Urtolla
