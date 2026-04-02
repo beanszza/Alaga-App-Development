@@ -84,6 +84,6 @@ When adding new features:
 
 ## Contact
 
-Vince Neil T. Madeja | 09922079904
-Brenan Collado
+Vince Neil T. Madeja | 
+Brenan Collado |
 Ron Urtolla
